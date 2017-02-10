@@ -1,5 +1,5 @@
 # angular-ui-xcodeMirror
-Integrates codeMirror and AngularJs, syncronizing ngModel and codeMirror values
+It's a module that integrates codeMirror text editor with AngularJs, syncronizing ngModel and codeMirror values.
 
 # Require
 
