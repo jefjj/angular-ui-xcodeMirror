@@ -1,7 +1,7 @@
 # angular-ui-xcodeMirror
 It's a module that integrates codeMirror text editor with AngularJs, syncronizing ngModel and codeMirror values.
 
-# Require
+## Require
 
 CodeMirror version: 5.23.0
 CodeMirror site: https://codemirror.net/
@@ -14,5 +14,5 @@ AngularJs version 1.6.1
 AngularJs site: https://angularjs.org/
 - angular.min.js
 
-# Demo
+## Demo
 http://jsfiddle.net/jefjj/3kb4r2e0/
