@@ -3,12 +3,12 @@ It's a module that integrates codeMirror text editor with AngularJs, syncronizin
 
 ## Require
 
-CodeMirror version: 5.23.0
+CodeMirror version: 5.52.0
 CodeMirror site: https://codemirror.net/
 - lib/codemirror.min.css
 - lib/codemirror.min.js
 - theme/monokai.min.css (Default: for monokai theme)
-- mode/xml/xml.min.js (Default: for HTML code)
+- mode/sql/sql.min.js (Default: for SQL code)
 
 AngularJs version 1.6.1
 AngularJs site: https://angularjs.org/
