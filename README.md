@@ -7,6 +7,9 @@ CodeMirror version: 5.52.0
 CodeMirror site: https://codemirror.net/
 - lib/codemirror.min.css
 - lib/codemirror.min.js
+- addon/hint/show-hint.min.css
+- addon/edit/matchbrackets.min.js
+- addon/hint/sql-hint.min.js
 - theme/monokai.min.css (Default: for monokai theme)
 - mode/sql/sql.min.js (Default: for SQL code)
 
